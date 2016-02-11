@@ -17,7 +17,7 @@ typical module preamble:
 package modules
 
 import(
-   lazlo "github.com/djosephsen/lazlo/lib"
+   lazlo "github.com/src-d/lazlo/lib"
 	// other stuff
 )
 

@@ -7,8 +7,8 @@ import (
 	"reflect"
 	"time"
 
-	lazlo "github.com/djosephsen/lazlo/lib"
 	luar "github.com/layeh/gopher-luar"
+	lazlo "github.com/src-d/lazlo/lib"
 	lua "github.com/yuin/gopher-lua"
 )
 

@@ -4,7 +4,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	lazlo "github.com/djosephsen/lazlo/lib"
+	lazlo "github.com/src-d/lazlo/lib"
 )
 
 func main() {
